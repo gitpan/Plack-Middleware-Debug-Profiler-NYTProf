@@ -22,9 +22,9 @@ requires:
   Devel::NYTProf: 0
   Filter::Util::Call: 0
   Plack: 0
-  Time::HiRes: 0
+  Plack::Middleware::Debug: 0
   perl: 5.8.0
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/sdecastelberg/Plack-Middleware-Debug-Profiler-NYTProf.git
-version: 0.03
+version: 0.04
