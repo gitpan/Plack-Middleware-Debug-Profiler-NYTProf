@@ -1,7 +1,7 @@
 ---
 abstract: 'Runs NYTProf on your app'
 author:
-  - 'Sebastian de Castelberg, C<< <sebu@kpricorn.org> >>'
+  - 'Sebastian de Castelberg, C<< <sdecaste@cpan.org> >>'
 build_requires:
   ExtUtils::MakeMaker: 6.42
 configure_requires:
@@ -27,4 +27,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/sdecastelberg/Plack-Middleware-Debug-Profiler-NYTProf.git
-version: 0.04
+version: 0.05
